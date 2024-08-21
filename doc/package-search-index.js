@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"Practica2","l":"cliente"},{"m":"Practica2","l":"excepciones"},{"m":"Practica2","l":"interfaz"},{"m":"Practica2","l":"menu"},{"m":"Practica2","l":"otros"},{"m":"Practica2","l":"pago"},{"m":"Practica2","l":"producto"}];updateSearchResults();
